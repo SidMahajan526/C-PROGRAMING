@@ -1,0 +1,3 @@
+student name  :shradha 
+student age   : 19 
+student cgpa  :9.990000 
